@@ -1,0 +1,6 @@
+PROGRAM HELLO
+      IMPLICIT NONE
+      CHARACTER*13 MESSAGE
+      MESSAGE = 'Hello, World!'
+      WRITE(*,*) MESSAGE
+      END PROGRAM HELLO

@@ -1,0 +1,4 @@
+H
+D Msg             S             20    INZ('Hello, World!')
+C                   DSPLY                     Msg
+C                   SETON                                        LR

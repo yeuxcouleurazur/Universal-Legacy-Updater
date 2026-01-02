@@ -1,0 +1,3 @@
+on mouseUp
+  put "Hello, World!" into field "output"
+end mouseUp
